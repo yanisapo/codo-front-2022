@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>la mejor pagina del mundo mundial</title>
+    </head>
+    <body>
+        <h1>Yanina puede hacerlo</h1>
+        <h2>si, se puede</h2>
+        <p><b>Lorem</b> <i>ipsum</i> dolor <sup>sit</sup> amet <sub>consectetur</sub> adipisicing <mark>elit.</mark> Iste totam ut, quo ipsam laudantium provident ipsum. Eos sed, laboriosam molestias odio quis nulla nesciunt, hic repellat earum, unde neque amet?</p>
+        <a href="https://www.google.com" target="_self">
+            en bolas
+        </a>
+        <br><img src="IMG_20140922_232622.jpg"
+        width="50%">
+    </body>
+</html>
