@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Clase3 - Codo a Codo</title>
+    </head>
+
+    <body>    
+        <header>
+            <h1>iFrame</h1>
+        
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/-v1nDN93FfM" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </iframe>
+        <section>
+        <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13135.454943668981!2d-58.45159315!3d-34.60760705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca05dacb0fa3%3A0x95e44868c11417a3!2sBilbo%20Cafe!5e0!3m2!1ses-419!2sar!4v1660774402856!5m2!1ses-419!2sar" 
+        width="400" height="300" 
+        style="border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
